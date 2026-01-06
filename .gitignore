@@ -1,0 +1,4 @@
+venv/
+chromadb/
+__pycache__/
+data/*.pdf
